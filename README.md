@@ -1,3 +1,6 @@
 # hello-world
 my first repository
-hahahahahah
+
+hi
+I have a beaytiful in this day 
+I am proud of me!
